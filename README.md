@@ -34,6 +34,8 @@ Rhea [texture map](https://www.deviantart.com/oleg-pluton/art/Rhea-texture-map-7
 
 [Charon texture](https://www.deviantart.com/askaniy/art/Charon-Texture-Map-762245061)/[height map](https://astrogeology.usgs.gov/search/map/charon_new_horizons_lorri_mvic_global_dem_300m)
 
+[Neptune texture](https://www.deviantart.com/askaniy/art/Neptune-1989-Texture-Map-769376373)
+
 ### Models
 
 "Teapot." (https://skfb.ly/oqPNZ) by Akulla is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
