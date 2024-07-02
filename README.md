@@ -28,10 +28,6 @@ Planet textures and height maps used are not ours. Unless stated otherwise, they
 
 [Titania texture map](https://www.deviantart.com/neptuneproproduction/art/Titania-Texture-Map-746524585)
 
-[Ceres texture map](https://www.solarsystemscope.com/textures/)
-
-[Venus texture maps](https://www.deviantart.com/oleg-pluton)
-
 [Neptune texture map](https://www.deviantart.com/askaniy/art/Neptune-1989-Texture-Map-769376373)
 
 Rhea [texture map](https://www.deviantart.com/oleg-pluton/art/Rhea-texture-map-767818383)/[height map](https://www.deviantart.com/oleg-pluton/art/Rhea-elevation-map-767817482)
