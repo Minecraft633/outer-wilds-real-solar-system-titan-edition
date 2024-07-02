@@ -32,7 +32,7 @@ Planet textures and height maps used are not ours. Unless stated otherwise, they
 
 Rhea [texture map](https://www.deviantart.com/oleg-pluton/art/Rhea-texture-map-767818383)/[height map](https://www.deviantart.com/oleg-pluton/art/Rhea-elevation-map-767817482)
 
-[Charon texture/height maps](https://www.deviantart.com/master-bit/art/Charon-8K-555604289)
+[Charon texture](https://www.deviantart.com/askaniy/art/Charon-Texture-Map-762245061)/[height map](https://astrogeology.usgs.gov/search/map/charon_new_horizons_lorri_mvic_global_dem_300m)
 
 ### Models
 
