@@ -15,6 +15,7 @@ Translations for Polish and Russian.
 
 ![Lunar lander](https://user-images.githubusercontent.com/22628069/148104095-67424b8a-7307-4bcc-a5a9-138d97316e23.png)
 
+TOTALLY NOT A SNEAK PEEK FOR 0.8.0
 ![TOTALLY NOT A SNEAK PEEK FOR 0.8.0](https://github.com/Minecraft633/outer-wilds-real-solar-system-titan-edition/assets/67232360/f5215e70-bbc8-4623-8980-a75266602889)
 
 
