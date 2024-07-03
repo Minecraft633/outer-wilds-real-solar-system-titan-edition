@@ -50,21 +50,19 @@
 			"a" : 255
 		}
 	},
-	"Water" : {
-		"size" : 103,
-		"tint" : 
-		{
-			"r" : 113,
-			"g" : 82,
-			"b" : 28,
-			"a" : 255
-		}
-	},
-	"HeightMap" :
-	{
-		"heightMap" : "planets/assets/titan_heightmap.png",	
-		"textureMap" : "planets/assets/titan_texturemap.png",	
-		"minHeight" : 100,
-		"maxHeight" : 105
-	}
+	"Water": {
+        "size": 97,
+        "tint": {
+            "r": 113,
+            "g": 82,
+            "b": 28,
+            "a": 255
+        }
+    },
+    "HeightMap": {
+        "heightMap": "planets/assets/titan_heightmap.png",
+        "textureMap": "planets/assets/titan_texturemap.png",
+        "minHeight": 95,
+        "maxHeight": 105
+    }
 }
