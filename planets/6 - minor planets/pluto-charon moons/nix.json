@@ -34,12 +34,5 @@
 		"minHeight" : 8,
 		"maxHeight" : 16,
 		"smoothness": 0.5,
-		"baseTile": {
-			"size": 8,
-			"textureTile": "planets/assets/tiles/Regolith_d.png",
-			"smoothnessTile": "planets/assets/tiles/Regolith_s.png",
-			"normalTile": "planets/assets/tiles/Regolith_n.png",
-			"normalStrength": 1
-		}
 	}
 }
