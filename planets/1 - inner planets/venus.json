@@ -61,7 +61,7 @@
 	},
 	"Signal": {
 		"signals": [
-			{ "position" : {"x": -111.0043, "y": 218.0896, "z": -11.04778}, "frequency" : "EscapePod", "name" : "Venera 14", "audioClip" : "ow_kazoo_theme", "sourceRadius" : 0.5, "detectionRadius": 100, "identificationRadius" : 5, "onlyAudibleToScope" : false }
+			{ "position" : {"x": -111.0043, "y": 218.0896, "z": -11.04778}, "frequency" : "Radio", "name" : "Venera 14", "audioClip" : "ow_kazoo_theme", "sourceRadius" : 0.5, "detectionRadius": 100, "identificationRadius" : 5, "onlyAudibleToScope" : false }
 		]
 	}
 }
