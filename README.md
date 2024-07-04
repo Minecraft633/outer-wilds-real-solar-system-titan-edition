@@ -30,7 +30,7 @@ Planet textures and height maps used are not ours. Unless stated otherwise, they
 
 [Triton texture map](https://www.deviantart.com/neptuneprogaming/art/Triton-Texture-Map-713512330)
 
-[Titania texture map](https://www.deviantart.com/neptuneproproduction/art/Titania-Texture-Map-746524585)
+[Titania texture/height map](https://www.deviantart.com/astra-planetshine/art/Uranus-Project-Missing-Data-Titania-646920848)
 
 [Neptune texture map](https://www.deviantart.com/askaniy/art/Neptune-1989-Texture-Map-769376373)
 
