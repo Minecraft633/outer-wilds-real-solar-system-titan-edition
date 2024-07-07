@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1954151958
+CRC: 2805499877
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 90818e9f9035200c5b55326e10ec6982
+    Hash: c2acfd92a7c7bb657fc70c27031a72f6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 07353491aca6e6a29636b555171f2e48
@@ -27,10 +27,10 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/RSS/foil_n.png
-- Assets/RSS/cassini_huygenless.fbx
-- Assets/RSS/cassini_tex_01.png
-- Assets/RSS/Prefabs/Cassini_No_Huygens.prefab
-- Assets/RSS/cassini_dish_AO.png
-- Assets/RSS/cassini_foil_n_2.png
+- Assets/RSS_Additions/foil_n.png
+- Assets/RSS_Additions/cassini_huygenless.fbx
+- Assets/RSS_Additions/cassini_tex_01.png
+- Assets/RSS_Additions/Prefabs/Cassini_No_Huygens.prefab
+- Assets/RSS_Additions/cassini_dish_AO.png
+- Assets/RSS_Additions/cassini_foil_n_2.png
 Dependencies: []
