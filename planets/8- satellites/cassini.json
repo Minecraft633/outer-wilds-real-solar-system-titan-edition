@@ -25,7 +25,7 @@
 	{
 		"Details" :
 		[
-			{ "assetBundle" : "planets/assetbundle/rss", "path" : "Assets/RSS/Prefabs/Cassini.prefab" }
+			{ "assetBundle" : "planets/assetbundle/rss", "path" : "Assets/RSS_Additions/Prefabs/Cassini_No_Huygens.prefab" }
 		]
 	},
 	"ShipLog" : {
