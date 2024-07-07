@@ -5,7 +5,7 @@
 	"Base" :
 	{
 		"surfaceGravity" : 0,
-		"hasMapMarker" : false,
+		"hasMapMarker" : true,
 		"isSatellite" : true
 	},
 	"Orbit" :
