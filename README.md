@@ -5,7 +5,7 @@
 ![Downloads](https://img.shields.io/github/downloads/minecraft633/outer-wilds-real-solar-system-titan-edition/total?style=for-the-badge)
 ![Downloads of newest version](https://img.shields.io/github/downloads/minecraft633/outer-wilds-real-solar-system-titan-edition/latest/total?style=for-the-badge)
 
-![Current version on xen](https://img.shields.io/github/manifest-json/v/xen-42/outer-wilds-real-solar-system?color=gree&filename=manifest.json&label=LATEST%20(XEN/OG)&style=for-the-badge)
+![Current version on xen](https://img.shields.io/github/manifest-json/v/xen-42/outer-wilds-real-solar-system?color=gree&filename=manifest.json&label=VERSION%20(XEN/OG)&style=for-the-badge)
 ![Downloads on xen](https://img.shields.io/github/downloads/xen-42/outer-wilds-real-solar-system/total?style=for-the-badge&label=DOWNLOADS%20(XEN/OG))
 ![Downloads of newest version on xen](https://img.shields.io/github/downloads/xen-42/outer-wilds-real-solar-system/latest/total?style=for-the-badge&label=DOWNLOADS@LATEST%20(XEN/OG))
 
