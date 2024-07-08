@@ -36,7 +36,7 @@ Planet textures and height maps used are not ours. Unless stated otherwise, they
 
 [Titania texture/height map](https://www.deviantart.com/astra-planetshine/art/Uranus-Project-Missing-Data-Titania-646920848)
 
-[Neptune texture map](https://www.deviantart.com/askaniy/art/Neptune-1989-Texture-Map-769376373)
+[Neptune texture map (by my boi ItzImCool)](https://www.deviantart.com/itzimcool/art/Neptune-Texture-Map-2022-1029964249)
 
 Rhea [texture map](https://www.deviantart.com/oleg-pluton/art/Rhea-texture-map-767818383)/[height map](https://www.deviantart.com/oleg-pluton/art/Rhea-elevation-map-767817482)
 
