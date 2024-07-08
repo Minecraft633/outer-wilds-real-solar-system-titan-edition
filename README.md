@@ -2,8 +2,8 @@
 ![Saturn](https://user-images.githubusercontent.com/22628069/147424489-f453cb3b-1719-46b4-bac2-e97a6057ee73.png)
 
 ![Current version](https://img.shields.io/github/manifest-json/v/Minecraft633/outer-wilds-real-solar-system-titan-edition?color=gree&filename=manifest.json)
-![Downloads](https://img.shields.io/github/downloads/xen-42/outer-wilds-real-solar-system/total)
-![Downloads of newest version](https://img.shields.io/github/downloads/xen-42/outer-wilds-real-solar-system/latest/total)
+![Downloads](https://img.shields.io/github/downloads/minecraft633/outer-wilds-real-solar-system-titan-edition/total)
+![Downloads of newest version](https://img.shields.io/github/downloads/minecraft633/outer-wilds-real-solar-system-titan-edition/latest/total)
 
 Replaces the solar system in Outer Wilds with ours, including 8 planets, 13 moons, over 100 asteroids, 5 minor bodies, a few planetary probes and satellites, and 2 distant solar systems (Alpha Centauri and Barnard's Star).
 
