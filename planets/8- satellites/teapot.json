@@ -27,7 +27,7 @@
 	{
 		"Details" :
 		[
-			{ "assetBundle" : "planets/assetbundle/rss", "path" : "Assets/RSS/Prefabs/Teapot.prefab" }
+			{ "assetBundle" : "planets/assetbundle/rss_additions", "path" : "Assets/RSS_Additions/Prefabs/Russel's Teapot.prefab" }
 		]
 	},
 	"ShipLog" : {
