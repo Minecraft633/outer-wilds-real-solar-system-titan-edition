@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2805499877
+CRC: 4158135713
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2acfd92a7c7bb657fc70c27031a72f6
+    Hash: a9499e32da5a30dd67c78eabb8c60c0d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 07353491aca6e6a29636b555171f2e48
@@ -27,6 +27,8 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/RSS_Additions/utah_teapot.obj
+- Assets/RSS_Additions/Prefabs/Russel's Teapot.prefab
 - Assets/RSS_Additions/foil_n.png
 - Assets/RSS_Additions/cassini_huygenless.fbx
 - Assets/RSS_Additions/cassini_tex_01.png
