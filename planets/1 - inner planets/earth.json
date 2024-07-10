@@ -31,7 +31,7 @@
 		"siderealPeriod" : 50
 	},
 	"Water" : {
-		"size" : 294
+		"size" : 294,
 		"tint": {
             	"r": 3,
            	"g": 15,
