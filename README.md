@@ -46,6 +46,8 @@ Rhea [texture map](https://www.deviantart.com/oleg-pluton/art/Rhea-texture-map-7
 
 [Nix texture map](https://www.deviantart.com/askaniy/art/Nix-False-Color-Map-926588947)
 
+[Charon texture map](https://www.deviantart.com/askaniy/art/Charon-Texture-Map-762245061)
+
 ### Models
 
 (UNUSED MODEL) "Teapot." (https://skfb.ly/oqPNZ) by Akulla is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
