@@ -6,7 +6,8 @@
 	{
 		"surfaceGravity" : 0,
 		"hasMapMarker" : true,
-		"isSatellite" : true
+		"isSatellite" : true,
+		"dottedOrbitLine" : true
 	},
 	"Orbit" :
 	{
