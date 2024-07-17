@@ -23,14 +23,19 @@
 	"Atmosphere" :
 	{
 		"size" : 400,
-		"cloudTint" : 
-		{
-			"r" : 181,
-			"g" : 181,
-			"b" : 230,
-			"a" : 255
+		"clouds": {
+			"outerCloudRadius" : 850,
+			"innerCloudRadius" : 750,
+			"tint" : 
+			{
+				"r" : 220,
+				"g" : 190,
+				"b" : 150,
+				"a" : 255
+			},
+			"texturePath" : "planets/assets/saturn.png",
+			"cloudsPrefab": "basic"
 		},
-		"cloud" : "planets/assets/saturn.png",
 		"fogTint" : 
 		{
 			"r" : 255,
