@@ -24,8 +24,8 @@
 	{
 		"size" : 400,
 		"clouds": {
-			"outerCloudRadius" : 850,
-			"innerCloudRadius" : 750,
+			"outerCloudRadius" : 200,
+			"innerCloudRadius" : 180,
 			"tint" : 
 			{
 				"r" : 220,
