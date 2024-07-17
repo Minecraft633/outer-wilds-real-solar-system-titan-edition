@@ -72,50 +72,5 @@
 				{"time": 1, "tint": {"r": 0, "g": 0, "b": 0}}
 			]
 		}
-	},
-	"AmbientLights": [
-		{
-			"outerRadius": 500,
-			"innerRadius": 450,
-			"intensity": 0.8,
-			"tint": {
-				"r": 50,
-				"g": 100,
-				"b": 230,
-				"a": 255
-			}
-		}
-	],
-	"Water": {
-		"size": 350
-	},
-	"Lava": {
-		"size": 50,
-		"tint": 
-		{
-			"r" : 4000,
-			"g" : 1500,
-			"b" : 150,
-			"a" : 255
-		}
-	},
-	"Props": {
-		"tornados": [
-			{ "type": "downwards", "position": { "x": 175, "y": 303, "z": 0 }, "height": 100, "wanderDegreesX": 60, "wanderDegreesZ": 0, "wanderRate": 0.04, "tint": { "r" : 200, "g" : 200, "b" : 200, "a" : 255 } },
-			{ "type": "downwards", "position": { "x": -87, "y": 303, "z": 152 }, "height": 100, "wanderDegreesX": 60, "wanderDegreesZ": 0, "wanderRate": 0.04, "tint": { "r" : 200, "g" : 200, "b" : 200, "a" : 255 } },
-			{ "type": "downwards", "position": { "x": -87, "y": 303, "z": -152 }, "height": 100, "wanderDegreesX": 60, "wanderDegreesZ": 0, "wanderRate": 0.04, "tint": { "r" : 200, "g" : 200, "b" : 200, "a" : 255 } },
-			
-			{ "type": "hurricane", "position": { "x": 0, "y": 0, "z": 350 }, "height": 100, "wanderDegreesX": 90, "wanderDegreesZ": 30, "wanderRate": 0.02, "tint": { "r" : 10, "g" : 30, "b" : 100, "a" : 255 } },
-			{ "type": "hurricane", "position": { "x": 0, "y": 0, "z": -350 }, "height": 100, "wanderDegreesX": 90, "wanderDegreesZ": 30, "wanderRate": 0.02, "tint": { "r" : 10, "g" : 30, "b" : 100, "a" : 255 } },
-
-			{ "type": "downwards", "position": { "x": -175, "y": -303, "z": 0 }, "height": 100, "wanderDegreesX": 60, "wanderDegreesZ": 0, "wanderRate": 0.04, "tint": { "r" : 200, "g" : 200, "b" : 200, "a" : 255 } },
-			{ "type": "downwards", "position": { "x": 87, "y": -303, "z": 152 }, "height": 100, "wanderDegreesX": 60, "wanderDegreesZ": 0, "wanderRate": 0.04, "tint": { "r" : 200, "g" : 200, "b" : 200, "a" : 255 } },
-			{ "type": "downwards", "position": { "x": 87, "y": -303, "z": -152 }, "height": 100, "wanderDegreesX": 60, "wanderDegreesZ": 0, "wanderRate": 0.04, "tint": { "r" : 200, "g" : 200, "b" : 200, "a" : 255 } }
-		]
-	},
-	"Volumes": {
-		"audioVolumes": [
-			{ "audio": "OW_GD_UnderwaterCurrent", "track": "environment", "position": {"x": 0, "y": 0, "z": 0}, "radius": 350 }
-		]
 	}
 }
