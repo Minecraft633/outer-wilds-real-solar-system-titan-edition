@@ -65,10 +65,5 @@
 			"a" : 255
 		}
 
-	},
-	"AsteroidBelt" : 
-	{
-		"innerRadius" : 9200,
-		"outerRadius" : 9400
 	}
 }
