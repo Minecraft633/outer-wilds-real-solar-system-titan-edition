@@ -33,7 +33,7 @@
 	},
 	"Atmosphere" :
 	{
-		"size" : 500,
+		"size" : 300,
 		"fogTint" : 
 		{
 			"r" : 50,
@@ -52,11 +52,9 @@
 			"b" : 230,
 			"a" : 255
 		},
-		"hasRain": true,
-		"hasSnow": true,
 		"clouds": {
-			"outerCloudRadius" : 500,
-			"innerCloudRadius" : 450,
+			"outerCloudRadius" : 150,
+			"innerCloudRadius" : 100,
 			"tint" : 
 			{
 				"r" : 10,
@@ -65,12 +63,7 @@
 				"a" : 255
 			},
 			"texturePath" : "planets/assets/neptune.png",
-			"cloudsPrefab": "giantsDeep",
-			"hasLightning" : true,
-			"lightningGradient" : [
-				{"time": 0, "tint": {"r": 0, "g": 0, "b": 0}},
-				{"time": 1, "tint": {"r": 0, "g": 0, "b": 0}}
-			]
+			"cloudsPrefab": "basic",
 		}
 	}
 }
