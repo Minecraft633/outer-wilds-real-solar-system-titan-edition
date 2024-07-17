@@ -64,7 +64,7 @@
 		"textureMap" : "planets/assets/earth_texturemap.png",	
 		"minHeight" : 292,
 		"maxHeight" : 307
-	}
+	},
 		"Props": {
 		"details": [
 			{
