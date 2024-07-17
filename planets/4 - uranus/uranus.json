@@ -52,11 +52,9 @@
 			"b" : 230,
 			"a" : 255
 		},
-		"hasRain": true,
-		"hasSnow": true,
 		"clouds": {
-			"outerCloudRadius" : 150,
-			"innerCloudRadius" : 100,
+			"outerCloudRadius" : 300,
+			"innerCloudRadius" : 250,
 			"tint" : 
 			{
 				"r" : 128,
