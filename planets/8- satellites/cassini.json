@@ -11,6 +11,7 @@
 	{
 		"semiMajorAxis" : 1000,
 		"primaryBody" : "Saturn",
+		"dottedOrbitLine" : true,
 		"showOrbitLine" : true
 	},
 	"Signal" : 
