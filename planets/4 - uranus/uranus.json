@@ -73,53 +73,12 @@
 			]
 		}
 	},
-	"AmbientLights": [
-		{
-			"outerRadius": 500,
-			"innerRadius": 450,
-			"intensity": 0.8,
-			"tint": {
-				"r": 128,
-				"g": 255,
-				"b": 230,
-				"a": 255
-			}
-		}
-	],
-	"Water": {
-		"size": 350
-	},
-	"Lava": {
-		"size": 50,
-		"tint": 
-		{
-			"r" : 4000,
-			"g" : 1500,
-			"b" : 150,
-			"a" : 255
-		}
-	},
-	"Volumes": {
-		"audioVolumes": [
-			{ "audio": "OW_GD_UnderwaterCurrent", "track": "environment", "position": {"x": 0, "y": 0, "z": 0}, "radius": 350 }
-		]
-	},
 	"Rings": [
 		{
 			"innerRadius" : 600,
 			"outerRadius" : 1000,
 			"texture" : "planets/assets/uranus_rings.png",
 			"fluidType": "sand",
-			"opacityCurve": [
-				{ "time": 0, "value": 1 },
-				{ "time": 18, "value": 1 },
-				{ "time": 22, "value": 0 }
-			],
-			"scaleCurve": [
-				{ "time": 0, "value": 1 },
-				{ "time": 22, "value": 1 },
-				{ "time": 22.01, "value": 0 }
-			]
 		}
 	]
 }
