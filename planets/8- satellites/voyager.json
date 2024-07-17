@@ -7,6 +7,10 @@
 		"surfaceGravity" : 0,
 		"hasMapMarker" : false,
 	},
+	"ReferenceFrame": {
+		"bracketRadius": 2,
+		"targetWhenClose": true
+	},
 	"Orbit" :
 	{
 		"semiMajorAxis" : 10000,
