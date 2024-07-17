@@ -44,7 +44,16 @@
 			"b" : 255,
 			"a" : 255
 		},
-		"solarLuminosity" : 0.8
+		"solarLuminosity" : 0.8,
+		"stellarDeathType" : "planetaryNebula",
+		"stellarRemnantType": "whiteDwarf",
+		"lifespan": 21.666,
+		"curve": [
+			{ "time": 0, "value": 1 },
+			{ "time": 12, "value": 1 },
+			{ "time": 21, "value": 2.3 }
+		]
+
 	},
 	"AsteroidBelt" : 
 	{
