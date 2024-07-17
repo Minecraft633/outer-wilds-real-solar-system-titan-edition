@@ -53,8 +53,8 @@
 			"a" : 255
 		},
 		"clouds": {
-			"outerCloudRadius" : 150,
-			"innerCloudRadius" : 100,
+			"outerCloudRadius" : 300,
+			"innerCloudRadius" : 250,
 			"tint" : 
 			{
 				"r" : 10,
