@@ -23,14 +23,28 @@
 	"Atmosphere" :
 	{
 		"size" : 500,
-		"cloudTint" : 
-		{
-			"r" : 181,
-			"g" : 181,
-			"b" : 230,
-			"a" : 255
+		"hasRain": true,
+		"clouds": {
+			"outerCloudRadius" : 950,
+			"innerCloudRadius" : 850,
+			"tint" : 
+			{
+				"r" : 170,
+				"g" : 110,
+				"b" : 60,
+				"a" : 255
+			},
+			"texturePath" : "planets/assets/jupiter.png",
+			"rampPath": "planets/assets/jupiter_ramp.png",
+			"cloudsPrefab": "giantsDeep",
+			"hasLightning" : true,
+			"lightningGradient" : [
+				{"time": 0, "tint": {"r": 255, "g": 64, "b": 128}},
+				{"time": 0.66, "tint": {"r": 0, "g": 0, "b": 128}},
+				{"time": 1, "tint": {"r": 64, "g": 0, "b": 128}}
+				]
+			}
 		},
-		"cloud" : "planets/assets/jupiter.png",
 		"fogTint" : 
 		{
 			"r" : 255,
