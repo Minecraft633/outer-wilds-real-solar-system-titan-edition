@@ -1,9 +1,9 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "xen",
+  "author": "xen and Ganymede2076",
   "name": "Real Solar System: Ganymede Edition",
   "uniqueName": "xen.RealSolarSystem",
-  "version": "0.6.8",
+  "version": "0.7.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
