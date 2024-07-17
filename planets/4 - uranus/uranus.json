@@ -55,8 +55,8 @@
 		"hasRain": true,
 		"hasSnow": true,
 		"clouds": {
-			"outerCloudRadius" : 500,
-			"innerCloudRadius" : 450,
+			"outerCloudRadius" : 150,
+			"innerCloudRadius" : 100,
 			"tint" : 
 			{
 				"r" : 128,
@@ -65,12 +65,7 @@
 				"a" : 255
 			},
 			"texturePath" : "planets/assets/uranus.png",
-			"cloudsPrefab": "giantsDeep",
-			"hasLightning": true,
-			"lightningGradient" : [
-				{"time": 0, "tint": {"r": 0, "g": 0, "b": 0}},
-				{"time": 1, "tint": {"r": 0, "g": 0, "b": 0}}
-			]
+			"cloudsPrefab": "basic",
 		}
 	},
 	"Rings": [
