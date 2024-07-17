@@ -30,29 +30,40 @@
 	"Star" :
 	{
 		"size" : 2000,
+		"starRampTexture": "planets/assets/sol_ramp.png",
+		"starCollapseRampTexture": "planets/assets/sol_collapse_ramp.png",
 		"tint" : 
 		{
-			"r" : 245,
-			"g" : 197,
-			"b" : 126,
+			"r" : 255,
+			"g" : 158,
+			"b" : 45,
 			"a" : 255
 		},
-		"solarFlareTint" : 
+		"solarLuminosity" : 1,
+		"lightRadius": 75000,
+		"lightTint": 
 		{
-			"r" : 26,
-			"g" : 102,
-			"b" : 255,
+			"r" : 255,
+			"g" : 250,
+			"b" : 240,
 			"a" : 255
 		},
-		"solarLuminosity" : 0.8,
 		"stellarDeathType" : "planetaryNebula",
 		"stellarRemnantType": "whiteDwarf",
 		"lifespan": 21.666,
+		"supernovaSize" : 3950,
 		"curve": [
 			{ "time": 0, "value": 1 },
 			{ "time": 12, "value": 1 },
 			{ "time": 21, "value": 2.3 }
-		]
+		],
+		"endTint": 
+		{
+			"r" : 255,
+			"g" : 7,
+			"b" : 7,
+			"a" : 255
+		}
 
 	},
 	"AsteroidBelt" : 
