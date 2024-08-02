@@ -33,7 +33,7 @@
 	},
 	"Atmosphere" :
 	{
-		"size" : 300,
+		"size" : 250,
 		"fogTint" : 
 		{
 			"r" : 128,
@@ -55,13 +55,6 @@
 		"clouds": {
 			"outerCloudRadius" : 300,
 			"innerCloudRadius" : 250,
-			"tint" : 
-			{
-				"r" : 128,
-				"g" : 255,
-				"b" : 230,
-				"a" : 255
-			},
 			"texturePath" : "planets/assets/uranus.png",
 			"cloudsPrefab": "basic"
 		}
