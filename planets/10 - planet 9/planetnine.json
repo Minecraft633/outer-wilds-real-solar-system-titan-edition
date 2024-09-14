@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Planet 9",
+	"starSystem" : "xen.RealSolarSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 12,
+		"surfaceSize" : 500
+	},
+	"MapMarker":
+	{
+		"enabled": true
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 36000,
+		"inclination" : 5,
+		"primaryBody" : "Sol",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 12,
+		"eccentricity" : 0.5,
+		"argumentOfPeriapsis" : 257,
+		"axialTilt" : 28,
+		"trueAnomaly" : 256,
+		"siderealPeriod" : 4,
+		"tint": 
+		{
+			"r" : 10,
+			"g" : 30,
+			"b" : 100,
+			"a" : 255
+		}
+	},
+	"Atmosphere" :
+	{
+		"size" : 295,
+		"fogTint" : 
+		{
+			"r" : 50,
+			"g" : 100,
+			"b" : 230,
+			"a" : 255
+		},
+		"fogDensity": 1,
+		"fogSize": 250,
+		"useAtmosphereShader": true,
+		"atmosphereSunIntensity": 0.5,
+		"atmosphereTint" : 
+		{
+			"r" : 50,
+			"g" : 100,
+			"b" : 230,
+			"a" : 255
+		},
+		"clouds": {
+			"outerCloudRadius" : 295,
+			"innerCloudRadius" : 250,
+			"texturePath" : "planets/assets/planet9_day_texturemap.png",
+			"cloudsPrefab": "basic",
+		}
+	}
+}
