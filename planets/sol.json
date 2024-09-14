@@ -50,7 +50,7 @@
 		},
 		"stellarDeathType" : "planetaryNebula",
 		"stellarRemnantType": "whiteDwarf",
-		"lifespan": 21.666,
+		"lifespan": 21.999,
 		"supernovaSize" : 3950,
 		"curve": [
 			{ "time": 0, "value": 1 },
