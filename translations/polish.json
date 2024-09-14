@@ -5,7 +5,7 @@
    	},
     "ShipLogDictionary" :
     	{
-		"" : ""
+		"Real Solar System" : "Układ Słoneczny"
    	},
 	"UIDictionary" :
     	{
@@ -19,6 +19,7 @@
 		"Jupiter": "Jowisz",
 		"Uranus" : "Uran",
 		"Neptune" : "Neptun",
+		"Planet 9" : "Planeta 9",
 
 		"The Moon" : "Księżyc",
 		"Phobos" : "Fobos",
