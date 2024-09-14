@@ -32,6 +32,10 @@
 			"g" : 102,
 			"b" : 255,
 			"a" : 255
-		}
+		},
+		"lifespan": 21.999,
+		"supernovaSize" : 3950,
+		"stellarDeathType" : "planetaryNebula",
+		"stellarRemnantType": "whiteDwarf"
 	}
 }

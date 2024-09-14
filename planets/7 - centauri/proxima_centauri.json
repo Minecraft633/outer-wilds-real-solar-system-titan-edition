@@ -20,6 +20,10 @@
 	"Star" :
 	{
 		"size" : 400,
+		"lifespan": 25.999,
+		"supernovaSize" : 500,
+		"stellarDeathType" : "planetaryNebula",
+		"stellarRemnantType": "whiteDwarf",
 		"tint" : 
 		{
 			"r" : 200,
