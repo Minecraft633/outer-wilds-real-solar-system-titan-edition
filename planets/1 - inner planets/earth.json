@@ -184,7 +184,15 @@
 				"position": {"x": 180.7017, "y": -136.0562, "z": -193.2599},
 				"scale": 0.5,
 				"alignRadial": true
-			}
+			},
+			{
+                "path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
+                "position": {"x": -260.6651, "y": 143.3318, "z": -10.63947},
+				"rotation": {"x": 25.91582, "y": 195.7594, "z": 299.6239},
+                "removeChildren": [
+                "Effects/Effects_HEA_SmokeColumn"
+				]
+			}	
 		],
 		"geysers": [
 			{
