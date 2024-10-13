@@ -3,7 +3,8 @@
 	"name" : "Planet 9",
 	"starSystem" : "xen.RealSolarSystem",
 	"Base" :
-	{
+	{	
+		"groundSize" : 100,
 		"surfaceGravity" : 12,
 		"surfaceSize" : 500
 	},
@@ -30,6 +31,12 @@
 			"b" : 100,
 			"a" : 255
 		}
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{ "audio": "Outer Wilds Party House v8 050321_2 AP vocals", "track": "environment", "position": {"x": 0, "y": 0, "z": 0}, "radius": 150 },
+			{ "audio": "Outer Wilds Party House v8 050321_2 AP Bass", "track": "environment", "position": {"x": 0, "y": 0, "z": 0}, "radius": 295 }
+		]
 	},
 	"Atmosphere" :
 	{
