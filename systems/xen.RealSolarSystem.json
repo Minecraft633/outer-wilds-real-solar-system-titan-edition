@@ -2,6 +2,15 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
 	"canEnterViaWarpDrive" : true,
 	"startHere" : false,
+	"Skybox": {
+		"destroyStarField": true,
+		"leftPath": "planets/assets/skybox/cubemapnx.png",
+		"rightPath": "planets/assets/skybox/cubemappx.png",
+		"frontPath": "planets/assets/skybox/cubemappz.png",
+		"backPath": "planets/assets/skybox/cubemapnz.png",
+		"topPath": "planets/assets/skybox/cubemappy.png",
+		"bottomPath": "planets/assets/skybox/cubemapny.png"
+	},
 	"coords" : {
 		"x" : [0, 1],
 		"y" : [1, 2],

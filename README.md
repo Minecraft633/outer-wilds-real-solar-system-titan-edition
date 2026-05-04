@@ -48,10 +48,6 @@ Rhea [texture map](https://www.deviantart.com/oleg-pluton/art/Rhea-texture-map-7
 
 [Charon texture map](https://www.deviantart.com/askaniy/art/Charon-Texture-Map-762245061)
 
-[Jupiter texture map](https://www.deviantart.com/askaniy/art/Jupiter-2018-Texture-Map-762588264)
-
-Planet 9 [day](https://www.deviantart.com/itzimcool/art/Planet-9-Texture-Map-1032444338) and [night](https://www.deviantart.com/itzimcool/art/Planet-9-Night-Texture-Map-1032443927) texture maps by my boi ItzImCool
-
 ### Models
 
 (UNUSED MODEL) "Teapot." (https://skfb.ly/oqPNZ) by Akulla is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
