@@ -63,7 +63,7 @@
 			"outerCloudRadius" : 295,
 			"innerCloudRadius" : 250,
 			"texturePath" : "planets/assets/planet9_day_texturemap.png",
-			"cloudsPrefab": "basic",
+			"cloudsPrefab": "basic"
 		}
 	}
 }

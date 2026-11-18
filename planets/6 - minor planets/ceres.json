@@ -10,7 +10,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 9500,
+		"semiMajorAxis" : 9640,
 		"inclination" : 3,
 		"trueAnomaly" : 180,
 		"longitudeOfAscendingNode": 80,

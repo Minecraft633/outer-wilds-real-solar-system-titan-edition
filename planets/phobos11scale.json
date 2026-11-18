@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"name" : "Phobos",
+	"Base" :
+	{
+		"surfaceGravity" : 1,
+		"surfaceSize" : 11267,
+		"hasMapMarker" : true,
+		"hasAmbientLight" : true
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 40000,
+		"inclination" : 1,
+		"primaryBody" : "Sun",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"axialTilt" : 0
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/phobos_heightmap.png",	
+		"textureMap" : "planets/assets/phobos_texturemap.png",	
+		"minHeight" : 7980,
+		"maxHeight" : 13910
+	}
+}
