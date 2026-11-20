@@ -1,7 +1,7 @@
 # Outer Wilds Real Solar System
 ![Saturn](https://user-images.githubusercontent.com/22628069/147424489-f453cb3b-1719-46b4-bac2-e97a6057ee73.png)
 
-![Current version](https://img.shields.io/github/manifest-json/v/Minecraft633/outer-wilds-real-solar-system-titan-edition?color=gree&filename=manifest.json&style=for-the-badge)
+![Current version](https://img.shields.io/github/manifest-json/v/Minecraft633/outer-wilds-real-solar-system-titan-edition?color=gree&filename=manifest.json&&label=VERSION&style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/minecraft633/outer-wilds-real-solar-system-titan-edition/total?style=for-the-badge)
 ![Downloads of newest version](https://img.shields.io/github/downloads/minecraft633/outer-wilds-real-solar-system-titan-edition/latest/total?style=for-the-badge)
 
