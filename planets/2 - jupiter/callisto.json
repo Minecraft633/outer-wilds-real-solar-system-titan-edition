@@ -15,6 +15,7 @@
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
 		"isTidallyLocked" : true,
+		"alignmentAxis" : {"x": -1, "y": 0, "z": 0},
 		"trueAnomaly" : 200
 	},
 	"HeightMap" :

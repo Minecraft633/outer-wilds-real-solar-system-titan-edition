@@ -4,8 +4,8 @@
 	"starSystem" : "xen.RealSolarSystem",
 	"Base" :
 	{
-		"surfaceGravity" : 8,
-		"surfaceSize" : 150,
+		"surfaceGravity" : 14,
+		"surfaceSize" : 320,
 		"hasMapMarker" : true,
 		"hasAmbientLight" : true
 	},
@@ -19,20 +19,43 @@
 		"axialTilt" : 0,
 		"trueAnomaly" : 0,
 		"isTidallyLocked" : true,
+		"alignmentAxis" : {"x": -1, "y": 0, "z": 0}
+	},
+	"Water" : {
+		"size" : 305,
+		"tint" : 
+		{
+			"r" : 59,
+			"g" : 77,
+			"b" : 89,
+			"a" : 255
+		}
+	},
+	"Atmosphere" :
+	{
 		"hasAtmosphere" : true,
+		"size" : 320,
 		"atmosphereTint" : 
 		{
-			"r" : 180,
-			"g" : 180,
-			"b" : 30,
-			"a" : 255
+			"R" : 180,
+			"G" : 180,
+			"B" : 30,
+			"A" : 255
+		},
+		"fogDensity": 0.05,
+		"fogSize": 320,
+		"clouds": {
+			"outerCloudRadius": 319,
+			"texturePath": "planets/assets/proxima b clouds.png",
+			"cloudsPrefab": "transparent",
+			"rotationSpeed": 0
 		}
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/venus_heightmap.png",	
-		"textureMap" : "planets/assets/Alpha Centauri Ab.png",	
-		"minHeight" : 150,
-		"maxHeight" : 153
+		"heightMap" : "planets/assets/Proxima B heightmap.png",	
+		"textureMap" : "planets/assets/Proxima B.png",	
+		"minHeight" : 290,
+		"maxHeight" : 310
 	}
 }

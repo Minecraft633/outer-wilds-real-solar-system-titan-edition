@@ -38,12 +38,32 @@
 		],
 		"details" :
 		[
-			{ "assetBundle" : "planets/assetbundle/xen_realsolarsystem_megapiggy", "path" : "Assets/ISS/InternationalSpaceStation.prefab", "scale": 0.75, "keepLoaded": true }
-		]
+			{ "assetBundle" : "planets/assetbundle/xen_realsolarsystem_megapiggy", "path" : "Assets/ISS/InternationalSpaceStation.prefab", "scale": 0.75, "keepLoaded": true },
+			{ "assetBundle" : "planets/assetbundle/rss_additions", "path" : "Assets/RSS_Additions/Prefabs/ISS_Skeletons.prefab", "position": {"x": -7.647393, "y": -3.009799, "z": -12.84}, "rotation": {"x": 10.91936, "y": 162.6169, "z": 32.96663}, "scale": 1, "keepLoaded": true },
+			{ "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo", "position": {"x": -7.647393, "y": -3.009799, "z": -12.84}, "rotation": {"x": 10.91936, "y": 162.6169, "z": 32.96663}, "rename": "ISSRecorder", "scale": 0.1, "keepLoaded": true }
+		],
+		"dialogue": [
+            {
+                "xmlFile": "planets/xml/dialogue/RSS_ISS_RECORDER_FATE.xml",
+				"parentPath": "Sector/ISSRecorder",
+				"position": {"x": 0, "y": 0, "z": 0},
+				"isRelativeToParent": true,
+				"lookAtRadius" : 3
+            }
+        ]
 	},
 	"Volumes": {
 		"zeroGravityVolumes": [
 			{ "radius": 60 }
+		],
+		"audioVolumes": [
+			{
+				"audio": "OW_NM_SadTheme_older",
+				"radius": 5,
+				"track": "music",
+				"volume": 1,
+				"position": {"x": -7.647393, "y": -3.009799, "z": -12.84}
+			}
 		]
 	},
 	"ShipLog" : 

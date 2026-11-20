@@ -35,29 +35,35 @@
 		"siderealPeriod" : 5
 	},
 	"Water" : {
-		"size" : 294,
+		"size" : 295,
 		"tint" : 
 		{
-			"r" : 2,
-			"g" : 5,
-			"b" : 20,
+			"r" : 36,
+			"g" : 43,
+			"b" : 57,
 			"a" : 255
 		}
 	},
 	"Atmosphere" :
 	{
 		"hasOxygen" : true,
-		"hasAtmosphere" : true,
+		"useAtmosphereShader": true,
 		"size" : 375,
 		"fogTint" : 
 		{
-			"R" : 90,
-			"G" : 128,
-			"B" : 128,
-			"A" : 255
+			"r" : 90,
+			"g" : 128,
+			"b" : 128,
+			"a" : 255
 		},
 		"fogDensity": 0.1,
-		"fogSize": 375
+		"fogSize": 375,
+		"clouds": {
+			"outerCloudRadius": 325,
+			"texturePath": "planets/assets/earth clouds itzimcool.png",
+			"cloudsPrefab": "transparent",
+			"rotationSpeed": 0
+		}
 	},
 	"HeightMap" :
 	{
@@ -193,8 +199,42 @@
                 "removeChildren": [
                 "Effects/Effects_HEA_SmokeColumn"
 				]
-			}	
-		],
+			},
+			{
+				"position": {"x": -13.12405, "y": 228.007, "z": 190.3347},
+				"rotation": {"x": 342.2828, "y": 107.9799, "z": 32.99438},
+				"normal": {"x": -0.07467875, "y": 0.7989435, "z": 0.5967514},
+                "path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder/Props_HEA_Recorder_Geo",
+				"rename": "EarthRecorder1",
+				"scale": 0.1,
+                "keepLoaded": true
+            },
+			{	
+				"assetBundle" : "planets/assetbundle/rss_additions",
+				"position": {"x": -15.16277, "y": 225.4077, "z": 193.403},
+				"rotation": {"x": 36.9281, "y": 328.1567, "z": 344.257},
+				"normal": {"x": -0.07460934, "y": 0.7694037, "z": 0.6343907},
+                "path": "Assets/RSS_Additions/Prefabs/SkeletonCrawlingPose3.prefab",
+                "keepLoaded": true
+            },
+			{	
+				"assetBundle" : "planets/assetbundle/rss_additions",
+				"position": {"x": 16.2778, "y": 235.7472, "z": 180.5135},
+				"rotation": {"x": 330.9801, "y": 226.139, "z": 337.711},
+				"normal": {"x": 0.06083679, "y": 0.8091145, "z": 0.5844935},
+                "path": "Assets/RSS_Additions/Prefabs/EarthRuinsHoarder.prefab",
+                "keepLoaded": true
+			}
+			],
+		"dialogue": [
+            {
+                "xmlFile": "planets/xml/dialogue/RSS_EARTH_HEA_CAMPSITE_RECORDER.xml",
+				"parentPath": "Sector/EarthRecorder1",
+				"position": {"x": 0, "y": 0, "z": 0},
+				"isRelativeToParent": true,
+				"lookAtRadius" : 3
+            }
+        ],
 		"geysers": [
 			{
 				"position": {"x": 72.7634, "y": 197.4859, "z": 216.0363}, "activeDuration": 10, "inactiveDuration": 19
@@ -207,6 +247,17 @@
 	"Volumes": {
 		"audioVolumes": [
 			{ "audio": "OW_TH_AmbienceInCanyons", "track": "environment", "position": {"x": 0, "y": 0, "z": 0}, "radius": 350 }
-		]
+		],
+		"revealVolumes": [
+				{
+					"radius":560,
+					"reveals":["EARTH_LOG"],
+					"revealOn":"enter"
+				}
+			]
+		},
+	"ShipLog": {
+		"xmlFile": "planets/assets/ShipLog/EARTH.xml",
+		"spriteFolder": "planets/assets/ShipLog/sprites/"
 	}
 }

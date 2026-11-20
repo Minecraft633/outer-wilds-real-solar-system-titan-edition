@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AstroObjectEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>Earth</ID>
+  <Entry>
+    <ID>EARTH_LOG</ID>
+    <Name>Another habitable planet</Name>
+    <IsCuriosity />
+    <ExploreFact>
+      <ID>EARTH_LOG</ID>
+      <Text>EARTH_LOG</Text>
+    </ExploreFact>
+    <Entry>
+      <ID>EARTH_RECORDER</ID>
+      <Name>Recorder</Name>
+      <IsCuriosity />
+    </Entry>
+  </Entry>
+</AstroObjectEntry>

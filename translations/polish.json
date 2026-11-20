@@ -5,7 +5,9 @@
    	},
     "ShipLogDictionary" :
     	{
-		"Real Solar System" : "Układ Słoneczny"
+		"Real Solar System" : "Układ Słoneczny",
+		"Another habitable planet": "Kolejna mieszkalna planeta",
+		"EARTH_LOG": "Udało mi się dostać na kolejną planete która jak dom, I tak jak zawsze, wszyscy NIE ŻYJĄ."
    	},
 	"UIDictionary" :
     	{
@@ -36,9 +38,6 @@
 		"Pluto-Charon" : "Pluton-Charon",
 		"Vesta" : "Westa",
 		"Dactyl" : "Daktyl",
-
-		"Russel's Teapot" : "Czajniczek Russella",
-		
 		
 		"Alpha Centauri" : "Alfa Centauri",
 		"Alpha Centauri A" : "Alfa Centauri A",

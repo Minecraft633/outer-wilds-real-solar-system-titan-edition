@@ -14,7 +14,8 @@
 		"semiMajorAxis" : 800,
 		"primaryBody" : "Jupiter",
 		"isMoon" : true,
-		"isTidallyLocked" : true
+		"isTidallyLocked" : true,
+		"alignmentAxis" : {"x": -1, "y": 0, "z": 0}
 	},
 	"Atmosphere" :
 	{

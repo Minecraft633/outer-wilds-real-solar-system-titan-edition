@@ -10,10 +10,23 @@
 		"RSS_EARTH_NOM_RAFT_RECORDER_PAGE_2" : "Allium: Hypothesis 1: It was left here by the original inhabitants of this planet.",
 		"RSS_EARTH_NOM_RAFT_RECORDER_PAGE_3" : "Allium: Hypothesis 2: We are not the only ones to have been marooned here.",
 		"RSS_EARTH_NOM_RAFT_RECORDER_PAGE_4" : "Musa: Unrelated hypothesis, this raft would have made our ocean crossing much easier.",
-		"RSS_EARTH_NOM_RAFT_RECORDER_PAGE_5" : "Allium: I believe that is more of an objective fact than a theory, Musa."
+		"RSS_EARTH_NOM_RAFT_RECORDER_PAGE_5" : "Allium: I believe that is more of an objective fact than a theory, Musa.",
+
+		"RSS_ISS_RECORDER_PAGE_1" : "1: Is anyone okay? A beam of X-Ray radiation just hit Earth! Hello, is anyone okay!?",
+		"RSS_ISS_RECORDER_PAGE_2" : "2: I'm okay, the radiation from Chernobyl has just been amplified, and we are running out of oxygen!",
+		"RSS_ISS_RECORDER_PAGE_3" : "1: Oh dear...",
+		"RSS_ISS_RECORDER_PAGE_4" : "2: Are you okay? HELLO, HELLO!",
+		"RSS_ISS_RECORDER_PAGE_5" : "1: Don't stare directly at the radiation.",
+		"RSS_ISS_RECORDER_PAGE_6" : "1: My last words are, we are doomed.",
+		"RSS_ISS_RECORDER_PAGE_7" : "2: I am not directly staring at it, only oxygen loss and long enough exposure is going to kill me.",
+		"RSS_ISS_RECORDER_PAGE_8" : "2: Is the rest okay? Hello?",
+		"RSS_ISS_RECORDER_PAGE_9" : "3: The Monolith on Titania has just started construction, you hear me?",
+		"RSS_ISS_RECORDER_PAGE_10" : "2: Yes, but my time is over, using my last supply of oxygen...",
+		"RSS_ISS_RECORDER_PAGE_11" : "4: The Monolith? What is it gonna have?",
+		"RSS_ISS_RECORDER_PAGE_12" : "3: A message for aliens if they exist..."
    	},
-    "ShipLogDictionary" :
-    {
-		"" : ""
-   	}
+	   "ShipLogDictionary": {
+		 "Another habitable planet": "",
+		 "EARTH_LOG": "I made it to what seems to be another planet like home, and ofcourse, everybody is DEAD."
+	   }
 }

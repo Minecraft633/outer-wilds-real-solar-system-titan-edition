@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4158135713
+CRC: 3432228777
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9499e32da5a30dd67c78eabb8c60c0d
+    Hash: b5ff8d1169f73a35674d122d903f5b7b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 07353491aca6e6a29636b555171f2e48
+    Hash: 481a9960284d97dc7b93d59820c3c7ea
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,14 +25,29 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 500372b3b1087d375c2f72ed03fa5a23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f3014da1c89ce2573a27c371d8ccd9f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/RSS_Additions/utah_teapot.obj
+- Assets/RSS_Additions/Prefabs/SkeletonFaceRight.prefab
+- Assets/RSS_Additions/Prefabs/EarthRuinsHoarder.prefab
 - Assets/RSS_Additions/Prefabs/Russel's Teapot.prefab
-- Assets/RSS_Additions/foil_n.png
-- Assets/RSS_Additions/cassini_huygenless.fbx
-- Assets/RSS_Additions/cassini_tex_01.png
+- Assets/RSS_Additions/Prefabs/GroundSkeleton.prefab
+- Assets/RSS_Additions/Prefabs/ISS_Skeletons.prefab
+- Assets/RSS_Additions/Prefabs/SkeletonCrawlingPose3.prefab
+- Assets/RSS_Additions/Prefabs/SkeletonCrawlingPose2.prefab
+- Assets/RSS_Additions/Prefabs/SkeletonCrawlingPose1.prefab
+- Assets/RSS_Additions/Prefabs/SkeletonPoseEyeOfTheUniverse.prefab
 - Assets/RSS_Additions/Prefabs/Cassini_No_Huygens.prefab
-- Assets/RSS_Additions/cassini_dish_AO.png
-- Assets/RSS_Additions/cassini_foil_n_2.png
+- Assets/RSS_Additions/Prefabs/SkeletonFaceLeft.prefab
 Dependencies: []

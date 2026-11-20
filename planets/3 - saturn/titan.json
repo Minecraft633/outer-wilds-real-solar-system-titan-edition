@@ -19,19 +19,26 @@
 		"eccentricity" : 0,
 		"argumentOfPeriapsis": 0,
 		"axialTilt" : 0,
-		"isTidallyLocked" : true
+		"isTidallyLocked" : true,
+		"alignmentAxis" : {"x": -1, "y": 0, "z": 0}
 	},
 	"Atmosphere" :
 	{
 		"size" : 120,
-		"cloudTint" : 
-		{
-			"r" : 220,
-			"g" : 198,
-			"b" : 97,
-			"a" : 255
+		"clouds": {
+			"outerCloudRadius" : 118,
+			"innerCloudRadius" : 105,
+			"texturePath": "planets/assets/titan_clouds.png",
+			"cloudsPrefab": "basic",
+			"rotationSpeed": 0.25,
+			"tint" : 
+			{
+				"r" : 220,
+				"g" : 198,
+				"b" : 97,
+				"a" : 255
+			}
 		},
-		"cloud" : "planets/assets/titan_clouds.png",
 		"fogTint" : 
 		{
 			"r" : 220,
@@ -51,18 +58,18 @@
 		}
 	},
 	"Water": {
-        "size": 97,
+        "size": 94,
         "tint": {
-            "r": 113,
-            "g": 82,
-            "b": 28,
-            "a": 255
+            "r": 54,
+            "g": 58,
+            "b": 61,
+            "a": 100
         }
     },
     "HeightMap": {
         "heightMap": "planets/assets/titan_heightmap.png",
         "textureMap": "planets/assets/titan_texturemap.png",
-        "minHeight": 95,
+        "minHeight": 90,
         "maxHeight": 105
     }
 }

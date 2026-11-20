@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
 	"canEnterViaWarpDrive" : true,
-	"startHere" : false,
+	"startHere" : true,
 	"Skybox": {
 		"destroyStarField": true,
 		"leftPath": "planets/assets/skybox/cubemapnx.png",
@@ -28,6 +28,22 @@
 	},
 	"loopDuration" : 27,
 	"GlobalMusic": {
-		"endTimesAudio": "planets/assets/EndTimesRSS.mp3"
-	}
+		"endTimesAudio": "planets/assets/audio/RSS_EndTimes.mp3"
+	},
+	"entryPositions": [
+		{
+			"id": "EARTH_LOG",
+			"position": {
+			"x": 0.0,
+			"y": 0.0
+			}
+		},
+		{
+			"id": "EARTH_RECORDER",
+			"position": {
+			"x": -190.0,
+			"y": 17.0
+			}
+		}
+	]
 }

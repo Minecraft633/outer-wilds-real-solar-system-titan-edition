@@ -1,0 +1,22 @@
+<DialogueTree>
+	<NameField>RECORDING</NameField>
+
+	<DialogueNode>
+		<Name>START</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>RSS_ISS_RECORDER_PAGE_1</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_2</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_3</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_4</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_5</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_6</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_7</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_8</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_9</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_10</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_11</Page>
+			<Page>RSS_ISS_RECORDER_PAGE_12</Page>
+		</Dialogue>
+	</DialogueNode>
+</DialogueTree>
