@@ -1,28 +1,9 @@
 {
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-  "filename": "NewHorizonsConfig.dll",
-  "author": "xen and Ganymede2076",
-  "name": "Real Solar System: Ganymede Edition",
-  "uniqueName": "gany.RSSGE",
-  "version": "0.7.0",
-  "owmlVersion": "2.1.0",
-  "dependencies": [ "xen.NewHorizons" ]
-=======
-=======
->>>>>>> 37cf515bec98fc3c9e65b7bcaa2b31e3dfd86d8d
   "filename": "NewHorizonsConfig.dll",
   "author": "xen and Ganymede2076",
   "name": "Real Solar System: Ganymede Edition",
   "uniqueName": "gany.RSSGE",
-<<<<<<< HEAD
   "version": "0.7.5",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
->>>>>>> Stashed changes
-=======
-  "version": "0.7.0",
-  "owmlVersion": "2.1.0",
-  "dependencies": [ "xen.NewHorizons" ]
->>>>>>> 37cf515bec98fc3c9e65b7bcaa2b31e3dfd86d8d
 }
